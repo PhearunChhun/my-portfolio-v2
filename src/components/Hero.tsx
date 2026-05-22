@@ -41,7 +41,7 @@ export default function Hero() {
           </h1>
 
           <h2 className="text-2xl md:text-4xl font-bold text-white/90 mb-8">
-            Full Stack Developer
+            WEB Developer
           </h2>
 
           <p className="text-gray-400 leading-relaxed text-lg mb-10 max-w-xl">
